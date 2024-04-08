@@ -1,6 +1,6 @@
-let titles_type = ["Image Super-Resolution", "Survey", "Blind", "Image Restoration", "Review"];
+let titles_type = ["Super-Resolution", "Survey", "Image Restoration", "Review"];
 let titles_model = ["Mamba", "Diffusion", "Transformer", "Attention", "Distillation"];
-let titles_method = ["Efficient", "Lightweight", "Prompt", "Self-Supervised"];
+let titles_method = ["Efficient", "Lightweight", "Blind", "Real-World"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
